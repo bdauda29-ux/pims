@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Comptoller General of Immigration",
+    "code": "CG"
+  },
+  {
+    "name": "Deputy Comptoller General of Immigration",
+    "code": "DCG"
+  },
+  {
+    "name": "Assistant Comptoller General of Immigration",
+    "code": "ACG"
+  },
+  {
+    "name": "Comptoller of Immigration",
+    "code": "CIS"
+  },
+  {
+    "name": "Deputy Comptoller of Immigration",
+    "code": "DCI"
+  },
+  {
+    "name": "Assistant Comptoller of Immigration",
+    "code": "ACI"
+  },
+  {
+    "name": "Chief Superintendent of Immigration",
+    "code": "CSI"
+  },
+  {
+    "name": "Superintendent of Immigration",
+    "code": "SI"
+  },
+  {
+    "name": "Deputy Superintendent of Immigration",
+    "code": "DSI"
+  },
+  {
+    "name": "Assistant Superintendent of Immigration 1",
+    "code": "ASI-1"
+  },
+  {
+    "name": "Assistant Superintendent of Immigration 2",
+    "code": "ASI-2"
+  },
+  {
+    "name": "Inspector of Immigration",
+    "code": "II"
+  },
+  {
+    "name": "Assistant Inspector of Immigration",
+    "code": "AII"
+  },
+  {
+    "name": "Immigration Assistant 1",
+    "code": "IA-1"
+  },
+  {
+    "name": "Immigration Assistant 2",
+    "code": "IA-2"
+  },
+  {
+    "name": "Immigration Assistant 3",
+    "code": "IA-3"
+  }
+]
